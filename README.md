@@ -1,7 +1,7 @@
 # Hi there, I'm Abdulwahid Husein 👋
 
 <p align="center">
-  <img src="https://github.com/AbdulwahidHusein/photo/blob/main/abdi.jpg" width="500" height="500" alt="Abdulwahid Husein">
+  <img src="https://github.com/AbdulwahidHusein/photo/blob/main/abdi.jpg" width="300" height="300" alt="Abdulwahid Husein">
 </p>
 
 ## About Me
@@ -23,10 +23,11 @@ Competitive programming has become a significant part of my life. It pushes me t
 ## Open Source Contributions
 As an advocate of open source software, I actively contribute to various projects. Collaborating with developers from around the world has provided me with invaluable experiences, allowing me to enhance my skills and gain insights into different development practices.
 
+## Skills Chart
+![Skills Chart](https://example.com/skills-chart.png)
+
 ## Let's Connect
 I'm always excited to connect with fellow developers, exchange knowledge, and collaborate on exciting projects. Feel free to reach out to me through the following channels:
 
 - LinkedIn: [Abdulwahid Husein](https://www.linkedin.com/in/abdulwahidhusein)
 - Email: abdulwahid@example.com
-
-<!-- Add any other sections you'd like to include -->
