@@ -1,7 +1,7 @@
 # Hi there, I'm Abdulwahid Husein 👋
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Abdulwahid Husein">
+  <img src="https://github.com/AbdulwahidHusein/photo/blob/main/abdi.jpg" width="500" height="500" alt="Abdulwahid Husein">
 </p>
 
 ## About Me
