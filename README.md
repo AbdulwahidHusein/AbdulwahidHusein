@@ -1,6 +1,6 @@
 # Hi there, I'm Abdulwahid Husein 👋
 
-<img src="https://github.com/AbdulwahidHusein/photo/blob/main/abdi.jpg" alt="Abdulwahid Husein" width="500" height="500"> 
+<img align="center" src="https://github.com/AbdulwahidHusein/photo/blob/main/abdi.jpg" alt="Abdulwahid Husein" width="500" height="500"> 
 About Me
 I'm a passionate Software Engineering student at Adama Science and Technology University. My love for programming and problem-solving led me to explore various domains of software development.
 
