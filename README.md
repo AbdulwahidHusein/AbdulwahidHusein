@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I am Abdulwahid Hussen</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Backend Developer and Software Engineering Student at Adama Scince and Technology University<br><br>- <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
