@@ -1,5 +1,8 @@
+#Hi There I'm Abdulwahid Hussen
+
 # 💫 About Me:
 I'm a passionate Software Engineering student at Adama Science and Technology University. My love for programming and problem-solving led me to explore various domains of software development.
+I embarked on my software development journey with an insatiable curiosity to learn and grow. The more I delved into the world of coding, the more I realized its infinite possibilities. From writing elegant code to building robust applications, I find joy in every aspect of the software development process.
 
 
 ## 🌐 Socials:
