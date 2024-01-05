@@ -16,10 +16,10 @@ I embarked on my software development journey with an insatiable curiosity to le
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulwahidHusein&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulwahidHusein&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ 
+### Random quote ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 
+### Random Meme😂 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
