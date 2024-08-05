@@ -1,9 +1,7 @@
 ### Hi There I'm Abdulwahid Hussen
 
 # 💫 About Me:
-I'm a passionate Software Engineering student at Adama Science and Technology University. My love for programming and problem-solving led me to explore various domains of software development.
-I embarked on my software development journey with an insatiable curiosity to learn and grow. The more I delved into the world of coding, the more I realized its infinite possibilities. From writing elegant code to building robust applications, I find joy in every aspect of the software development process.
-
+👋 A passionate developer with a love for coding and problem-solving. I enjoy building robust applications and exploring new technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Alien11d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdulwahidHussen) [![Personal Website](https://img.shields.io/badge/Personal-Website-%23E4405F.svg?logo=Web&logoColor=white)](https://capable-daifuku-fbe366.netlify.app/)
