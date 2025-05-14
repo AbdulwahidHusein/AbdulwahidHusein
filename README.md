@@ -1,6 +1,6 @@
-<!-- Profile Banner or GIF can be added here -->
+<!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Abdulwahid Hussen</h1>
-<h3 align="center">Passionate Full-Stack Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.abdulwahid.tech" target="_blank">
@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **robust full-stack web apps**
-- 🌱 Learning and experimenting with **AI, LLMs, and async systems**
-- 🧠 Solving complex problems with elegant code
+- 🔭 Currently building **robust full-stack web applications**
+- 🌱 Exploring **AI, LLMs, and asynchronous systems**
+- 🧠 Passionate about solving complex problems with elegant code
 - 💬 Ask me about **Python, Django, FastAPI, JavaScript, or DevOps**
 
 ---
@@ -75,22 +75,22 @@
 ## ✍️ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://zenquotes.io/api/image" alt="Inspirational Quote"/>
 </p>
 
 ---
 
-## 😂 Dev Meme of the Day
+## 😂 Meme of the Day
 
 <p align="center">
-  <img src="https://api.memegen.link/images/ds/small_file/high_quality.png" height="300px"/>
+  <img src="https://api.memegen.link/images/ds/small_file/high_quality.png" alt="Random Meme" height="300px"/>
 </p>
 
 ---
 
 ## 💖 Support Me
 
-If you like my work or it helped you in any way, consider buying me a coffee ☕
+If you appreciate my work and would like to support me:
 
 <p align="center">
   <a href="https://buymeacoffee.com/" target="_blank">
