@@ -1,34 +1,114 @@
-### Hi There I'm Abdulwahid Hussen
+<!-- Profile Banner or GIF can be added here -->
+<h1 align="center">Hi 👋, I'm Abdulwahid Hussen</h1>
+<h3 align="center">Passionate Full-Stack Developer | Problem Solver | Tech Explorer</h3>
 
-# 💫 About Me:
-👋 A passionate developer with a love for coding and problem-solving. I enjoy building robust applications and exploring new technologies.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Alien11d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdulwahidHussen) [![Personal Website](https://img.shields.io/badge/Personal-Website-%23E4405F.svg?logo=Web&logoColor=white)](https://www.abdulwahid.tech)
-<h2><a href="https://capable-daifuku-fbe366.netlify.app/">Pesonal website </a></h2>
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Golang](https://img.shields.io/badge/golang-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdulwahidHusein&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulwahidHusein&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulwahidHusein&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# Leetcode
-![](https://leetcode.card.workers.dev/AbdulwahidHussen?theme=default&font=baloo&extension=null)
-
-### Random quote ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Random Meme😂 
-<img src='https://api.memegen.link/images/ds/small_file/high_quality.png' style="height: 400px;"/>
-
+<p align="center">
+  <a href="https://www.abdulwahid.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Abdulwahid.tech-blueviolet?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website">
+  </a>
+  <a href="https://linkedin.com/in/AbdulwahidHussen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AbdulwahidHussen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/Alien11d" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40Alien11d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdulwahidHusein&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/petrion) 
+## 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Currently building **robust full-stack web apps**
+- 🌱 Learning and experimenting with **AI, LLMs, and async systems**
+- 🧠 Solving complex problems with elegant code
+- 💬 Ask me about **Python, Django, FastAPI, JavaScript, or DevOps**
+- ⚡ Fun fact: I call my girlfriend a "trickery girl" every day 😄
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django--REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socket.io)
+
+### 🛠️ DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulwahidHusein&theme=radical&show_icons=true&count_private=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulwahidHusein&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulwahidHusein&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/AbdulwahidHussen?theme=unicorn&font=baloo"/>
+</p>
+
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 😂 Dev Meme of the Day
+
+<p align="center">
+  <img src="https://api.memegen.link/images/ds/small_file/high_quality.png" height="300px"/>
+</p>
+
+---
+
+## 💖 Support Me
+
+If you like my work or it helped you in any way, consider buying me a coffee ☕
+
+<p align="center">
+  <a href="https://buymeacoffee.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://paypal.com" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+  <a href="https://patreon.com/petrion" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AbdulwahidHusein&icon=0&color=0"/>
+</p>
+
+<!-- Created with love by Abdulwahid using GPRM (https://gprm.itsvg.in) -->
