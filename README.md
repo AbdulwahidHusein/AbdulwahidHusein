@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Abdulwahid Hussen</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.abdulwahid.tech" target="_blank">
