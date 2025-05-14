@@ -22,7 +22,6 @@
 - 🌱 Learning and experimenting with **AI, LLMs, and async systems**
 - 🧠 Solving complex problems with elegant code
 - 💬 Ask me about **Python, Django, FastAPI, JavaScript, or DevOps**
-- ⚡ Fun fact: I call my girlfriend a "trickery girl" every day 😄
 
 ---
 
