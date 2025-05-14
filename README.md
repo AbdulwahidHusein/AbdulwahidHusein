@@ -4,7 +4,7 @@
 👋 A passionate developer with a love for coding and problem-solving. I enjoy building robust applications and exploring new technologies.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Alien11d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdulwahidHussen) [![Personal Website](https://img.shields.io/badge/Personal-Website-%23E4405F.svg?logo=Web&logoColor=white)](https://capable-daifuku-fbe366.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Alien11d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdulwahidHussen) [![Personal Website](https://img.shields.io/badge/Personal-Website-%23E4405F.svg?logo=Web&logoColor=white)](https://www.abdulwahid.tech)
 <h2><a href="https://capable-daifuku-fbe366.netlify.app/">Pesonal website </a></h2>
 
 # 💻 Tech Stack:
