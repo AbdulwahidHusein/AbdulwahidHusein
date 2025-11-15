@@ -19,7 +19,7 @@
 
 With over **5+ years of experience**, I'm an AI-focused engineer and entrepreneur based in **Ethiopia**. I specialize in building sophisticated, end-to-end intelligent applications.
 
-* 🧠 **AI Engineering:** My primary focus is **Generative AI**. I architect and build complete AI systems, from scalable RAG pipelines with **LangChain** and **LangGraph** to real-time, low-latency voice agents using **GCP Vertex AI** and **Gemini**.
+* 🧠 **AI Engineering:** I architect and build complete AI systems, from scalable RAG pipelines to real-time, low-latency voice agents.
 * ⚡ **Full-Stack Development:** I build robust, high-performance applications from the ground up. I specialize in **Python** (**FastAPI**, **Django**, **Pydantic**) and **Node.js** backends, paired with modern **React** and **TypeScript** frontends.
 * ☁️ **Cloud & DevOps:** I deploy production-ready, scalable applications on **GCP** (Cloud Run, Cloud SQL) and **AWS**, fully containerized with **Docker**.
 
