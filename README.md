@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulwahid Hussen</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Automation Expert</h3>
+<h3 align="center">Full-Stack Developer | Senior AI Engineer</h3>
 
 <p align="center">
   <a href="https://www.abdulwahid.tech" target="_blank">
@@ -17,23 +17,22 @@
 
 ## 🚀 About Me
 
-I'm an AI-focused developer and entrepreneur based in **Ethiopia**, passionate about building intelligent, real-time, and automated systems that solve complex problems.
+With over **5+ years of experience**, I'm an AI-focused engineer and entrepreneur based in **Ethiopia**. I specialize in building sophisticated, end-to-end intelligent applications.
 
-* 🧠 My primary focus is **Generative AI**. I design and build end-to-end AI applications, from RAG pipelines with **LangChain** to real-time voice agents using **GCP Vertex AI**, **Gemini**, and **LiveKit**.
-* ⚡ I specialize in high-performance backends using **Python** (particularly **FastAPI** and **Django**) and am a firm believer in efficiency through automation, using tools like **n8n** to build complex workflows.
-* ☁️ I deploy scalable, production-ready applications on **GCP** (Cloud Run, Cloud SQL) and **AWS**, containerized with **Docker**.
-* 💡 I'm also a competitive programmer and was proud to give a seminar on **"AI & Automation"** for CSEC ASTU.
+* 🧠 **AI Engineering:** My primary focus is **Generative AI**. I architect and build complete AI systems, from scalable RAG pipelines with **LangChain** to real-time, low-latency voice agents using **GCP Vertex AI**, **Gemini**, and **LiveKit**.
+* ⚡ **Full-Stack Development:** I build robust, high-performance applications from the ground up. I specialize in **Python** (**FastAPI**, **Django**) and **Node.js** backends, paired with modern **React** and **TypeScript** frontends.
+* ☁️ **Cloud & DevOps:** I deploy production-ready, scalable applications on **GCP** (Cloud Run, Cloud SQL) and **AWS**, fully containerized with **Docker**.
 
 ---
 
 ## 🎯 My Current Focus
 
-Here are some of the challenges I'm currently working on:
+I'm passionate about tackling complex challenges. Here are some of the projects I'm focused on:
 
 * 🩺 Building **real-time AI agents** for medical education and patient simulation.
-* 📈 Architecting **fintech and credit-scoring solutions** tailored for the Ethiopian market.
-* 🤖 Developing **RAG-based AI assistants** (like the "Scrunchy AI Assistant") to analyze and interact with proprietary data.
-* ⚙️ Creating complex **automation workflows** for data processing and lead generation.
+* 📈 Architecting **full-stack fintech and credit-scoring solutions** tailored for the Ethiopian market.
+* 🤖 Developing **end-to-end RAG-based AI assistants** to analyze and interact with proprietary data.
+* 💡 Exploring new frontiers in **competitive programming** and advanced algorithms.
 
 ---
 
@@ -46,6 +45,7 @@ Here are some of the challenges I'm currently working on:
 ### 🛠️ Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -54,17 +54,16 @@ Here are some of the challenges I'm currently working on:
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socket.io)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ⚙️ Automation & Databases
-![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=flat-square&logo=n8n&logoColor=white)
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
@@ -75,6 +74,7 @@ Here are some of the challenges I'm currently working on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulwahidHusein&theme=radical&show_icons=true&count_private=true&hide_border=true" height="150"/>
+Options: 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulwahidHusein&theme=radical&hide_border=true" height="150"/>
 </p>
 
@@ -105,5 +105,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AbdulwahidHusein&icon=0&color=0"/>
+Indentation:   <img src="https://visitcount.itsvg.in/api?id=AbdulwahidHusein&icon=0&color=0"/>
 </p>
