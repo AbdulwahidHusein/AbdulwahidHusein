@@ -42,11 +42,11 @@ I'm passionate about tackling complex challenges. Here are some of the projects 
 ![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-16B13D?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNSAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjUgMjJDMjEuMzY2IDIyIDI4LjUgMTQuODY2IDI4LjUgNkMyOC41IDUuMTcwMjggMjEuMzY2IDIgMTIuNSAyQzMuNjMzOTkgMiAtMy41IDUuMTcwMjggLTMuNSA2Qy0zLjUgMTQuODY2IDMuNjMzOTkgMjIgMTIuNSAyMloiIGZpbGw9IndoaXRlIj48L3BhdGg+CjxwYXRoIGQ9Ik0xOC43MjI3IDE2LjgwODVDMTguMzY2MyAxNy4wMjEyIDE3Ljk0NDEgMTcuMTg1NSAxNy40ODE3IDE3LjI4NDVDMTcuMDIyOSAxNy4zODM1IDE2LjU1MzQgMTcuNDMyIDE2LjA4NjYgMTcuNDMySDguOTEzMzVIMy44MTgzNFYxNS45NjM2SDguOTg4MTZDOC45ODgxNiAxNS45NjM2IDguOTg1MTYgMTUuOTYzNiA4Ljk4ODE2IDE1Ljk2MzZDOS40NTE2NCAxNS45NjM2IDEwLjA5MTIgMTUuODYzMyAxMC42MDI0IDE1LjYxNjVDMTEuMTIwMiAxNS4zNzMyIDExLjU1NTggMTQuOTgxOSAxMS44NTg2IDE0LjQ3MjRMMTUuODMxMSAxMC40NDcxTDE1LjkxMTYgMTAuMzM0M0wxNS44MzExIDEwLjIyMTVMMTEuODU4NiA2LjE5NDYyQzExLjU1NTggNS42ODUxOCAxMS4xMjAyIDUuMjk5NzggMTAuNjAyNCA1LjA1Mzk5QzEwLjA5MTIgNC44MDgyOSA5LjQ1MTY0IDQuNzAxIDguOTg4MTYgNC43MDFMMy44MTgzNCA0LjcwMVYyLjQzMjY3SDguOTEzMzVDMTYuNTQ2MiAyLjQzMjY3IDE2LjAyNDkgMi40MzI2NyAxNy40ODE3IDMuMzgwMTVDMTcuOTQ0MSAzLjQ3OTEzIDE4LjM2NjMgMy42NDM0MyAxOC43MjI3IDMuODY3MDRMMjAuOTk5OSA1LjM4NTg2VjUuNDUwMDlMMTQuODE2NSA5LjYwMTU5QzE0LjQ4MDcgMTAuMDE1MSAxNC4yOTM5IDEwLjQ5NzYgMTQuMjkzOSAxMC45OTQ5QzE0LjI5MzkgMTEuNDkyMyAxNC40ODA3IDExLjk3NDggMTQuODE2NSAxMi4zNzM2TDIwLjk5OTkgMTYuMjE3MVYxNi4yODI0TDE4LjcyMjcgMTYuODA4NVoiIGZpbGw9ImJsYWNrIj48L3BhdGg+Cjwvc3ZnPgo=&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
 ### 🛠️ Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
