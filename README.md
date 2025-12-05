@@ -2,15 +2,15 @@
 <h3 align="center">Senior AI Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.abdulwahid.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Abdulwahid.tech-blueviolet?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website">
-  </a>
-  <a href="https://linkedin.com/in/AbdulwahidHussen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AbdulwahidHussen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/Alien11d" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40Alien11d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <a href="https://abdulwahidhussen.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-abdulwahidhussen.com-blueviolet?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website">
+  </a>
+  <a href="https://linkedin.com/in/AbdulwahidHussen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AbdulwahidHussen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/Alien11d" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40Alien11d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ---
